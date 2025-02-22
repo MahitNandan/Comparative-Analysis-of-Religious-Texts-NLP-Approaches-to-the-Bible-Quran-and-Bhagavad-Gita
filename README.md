@@ -37,6 +37,7 @@ If you use our work, please cite:
     pages = "1--10",
     abstract = "Religious texts have long influenced cultural, moral, and ethical systems, and have shaped societies for generations. Scriptures like the Bible, the Quran, and the Bhagavad Gita offer insights into fundamental human values and societal norms. Analyzing these texts with advanced methods can help improve our understanding of their significance and the similarities or differences between them. This study uses Natural Language Processing (NLP) techniques to examine these religious texts. Latent Dirichlet Allocation (LDA) is used for topic modeling to explore key themes, while GloVe embeddings and Sentence Transformers are used to compare topics between the texts. Sentiment analysis using Valence Aware Dictionary and sEntiment Reasoner (VADER) assesses the emotional tone of the verses, and corpus distance measurement is done to analyze semantic similarities and differences. The findings reveal unique and shared themes and sentiment patterns across the Bible, the Quran, and the Bhagavad Gita, offering new perspectives in computational religious studies."
 }
+```
 ## Dataset
 The study utilized English translations of the Bible, Quran, and Bhagavad Gita. These texts were preprocessed to ensure uniformity for analysis, including text normalization, tokenization, and stop-word removal.
 
